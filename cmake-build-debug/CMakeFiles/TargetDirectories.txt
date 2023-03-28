@@ -1,0 +1,3 @@
+C:/Users/Huang Zihao/CLionProjects/C-learning/cmake-build-debug/CMakeFiles/C_learning.dir
+C:/Users/Huang Zihao/CLionProjects/C-learning/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Huang Zihao/CLionProjects/C-learning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
